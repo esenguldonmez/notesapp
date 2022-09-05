@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "786525392712",
+    "project_id": "esengulnotlarim",
+    "storage_bucket": "esengulnotlarim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786525392712:android:5ca64a94a87bee5847ed7d",
+        "android_client_info": {
+          "package_name": "com.example.esengulnotlar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786525392712-ek635q1bej55qphubjbqtf8hmb2lnkrt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyet76iQcI_MuSCYzg3UZb6jRa8ZMjcW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786525392712-ek635q1bej55qphubjbqtf8hmb2lnkrt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
